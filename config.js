@@ -9,10 +9,10 @@ global.nomerowner = ["2349039996138"]
 
 // Apikey 
 
-global.skizo = 'David Cyril'
+global.skizo = 'EVERGREEN'
 global.casterix = 'DeeCeeXxx'
 //watermark 
-global.packname = '*MFCLONE*'
+global.packname = '*EVERGREEN*'
 global.author = 'QUEEN_ANITA-V1'
 
 // cpanel 
